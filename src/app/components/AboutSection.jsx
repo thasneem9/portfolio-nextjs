@@ -54,7 +54,7 @@ const AboutSection = () => {
         <Image src="/images/about.jpg" width={500} height={500}/>
         <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
             <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
-            <p className='text-base lg:text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam iusto provident at quam a ipsa, esse pariatur dolor nostrum harum et quas vel distinctio ad porro totam expedita, officiis ea adipisci ex quis debitis. Saepe atque aliquam soluta fuga corrupti!</p>
+            <p className='text-base lg:text-lg'>I'm Thasneem, a programmer with a passion for web development. My journey into web development has been driven by a commitment to deliver the best designs, I strive to bring ideas to life and exceed expectations. When I'm not coding, you can find me painting and reading fiction. Let's collaborate and turn your visions into reality!</p>
         <div className='flex flex-row justify-start mt-8'>
             <TabButton selectTab={()=>handleTabChange("skills")}  active={tab==="skills"}>{""}Skills{""}</TabButton>
             <TabButton selectTab={()=>handleTabChange("education")}  active={tab==="education"}>{""}Education{""}</TabButton>
