@@ -46,8 +46,8 @@ const projectsData = [
       description: "Project 5 description",
       image: "/images/projects/5.png",
       tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/thasneem9/ex231currency",
+      previewUrl: "https://github.com/thasneem9/ex231currency/blob/main/README.md",
     },
     {
       id: 6,
