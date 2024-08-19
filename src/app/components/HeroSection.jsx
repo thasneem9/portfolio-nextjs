@@ -37,8 +37,7 @@ const HeroSection = () => {
         <div>
             <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white' >Hire Me</button>
             <a
-  href="https://drive.google.com/file/d/1oD79ry2c8pMm7M_TqLpDDiq75LdL22qL/view?usp=drive_link"
-  download="image.pdf"
+    href="https://drive.google.com/uc?id=1oD79ry2c8pMm7M_TqLpDDiq75LdL22qL&export=download"
 >
   <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3'>
     <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
