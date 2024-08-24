@@ -7,7 +7,7 @@ const projectsData = [
     {
       id: 1,
       title: "InstaWave Full stack Social Media ",
-      description: "Project 1 description",
+      description: "This is a full-stack social media app, named 'instawave' created as part of my first year 1 month summer internship project, allows users to message each other real time using socket.io and play multiplayer games like toc-tac-toe with ecah other in real time.",
       image: "./images/projects/1.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/thasneem9/InstaWave---Copy",
@@ -16,7 +16,7 @@ const projectsData = [
     {
       id: 2,
       title: "View Point Homes Frontend Website",
-      description: "Project 2 description",
+      description: ": This project involved the development of a responsive and visually appealing frontend website for View Point Homes, which is now published to google map websies. Mainly used HTML5,css,Javascript.",
       image:"./images/projects/22.jpg",
       tag: ["All", "Web"],
       gitUrl: "https://thasneem9.github.io/viewPointTouristHome/",
@@ -25,7 +25,7 @@ const projectsData = [
     {
       id: 3,
       title: "Different Birds and their Sounds",
-      description: "Project 3 description",
+      description: "This project showcases various bird species and their unique sounds. Developed using HTML, CSS, and JavaScript. Upon selection, users can listen to authentic bird calls and learn more about each species. The project highlights the use of audio integration and responsive design  created for bird enthusiasts of all ages.",
       image: "./images/projects/333.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/thasneem9/birdSounds",
@@ -34,7 +34,7 @@ const projectsData = [
     {
       id: 4,
       title: "React Todo List application",
-      description: "Project 4 description",
+      description: " This project is a dynamic and user-friendly Todo List application built using React. The app allows users to manage their tasks with features such as adding new tasks, editing existing ones, deleting tasks, and marking tasks as completed. Learnt about key React concepts, including state management, component reusability, and event handling.",
       image: "./images/projects/444.png",
       tag: ["All", "Mobile"],
       gitUrl: "https://github.com/thasneem9/todoapp",
@@ -43,7 +43,7 @@ const projectsData = [
     {
       id: 5,
       title: "Currency Converter App",
-      description: "Project 5 description",
+      description: " This project is a Currency Converter application that supports conversions between over 160 currencies. Utilizing a free exhangeRate API, the app provides real-time exchange rates, allowing users to quickly and accurately convert amounts from one currency to another. ",
       image: "./images/projects/5.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/thasneem9/ex231currency",
@@ -52,7 +52,7 @@ const projectsData = [
     {
       id: 6,
       title: "Mini Projects using HTML CSS BOOTSRAP",
-      description: "Project 6 description",
+      description: "This project is a collection of mini-projects built using HTML, CSS, and Bootstrap. Each mini-project focuses on a specific aspect of web development, such as responsive layouts, flex and CSS styles, or interactive UI components. Built as part of capstone project during Angela Yu's coding bootcamp on Udemy.",
       image: "./images/projects/6.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/thasneem9/PORTFOLIO",
