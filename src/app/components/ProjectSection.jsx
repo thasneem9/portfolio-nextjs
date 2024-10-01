@@ -33,6 +33,15 @@ const projectsData = [
     },
     {
       id: 4,
+      title: "Full Stack Blog Application",
+      //description: "Thisproject was built using React, Postgress,Express andNode Js. Allows users to create blog posts, search for variuos posts, filter based on categories, perform various crud operations. Users can delete, edit posts and profile, Like and unlike posts. Blog Daily is the place for all learning enthusiasts!",
+      image: "./images/projects/blog.jpg",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/thasneem9/crud-blog-app",
+      previewUrl: "https://youtu.be/rtoxiNASIXA",
+    },
+    {
+      id: 5,
       title: "React Todo List application",
       //description: " This project is a dynamic and user-friendly Todo List application built using React. The app allows users to manage their tasks with features such as adding new tasks, editing existing ones, deleting tasks, and marking tasks as completed. Learnt about key React concepts, including state management, component reusability, and event handling.",
       image: "./images/projects/444.png",
@@ -41,7 +50,7 @@ const projectsData = [
       previewUrl: "https://thasneem9.github.io/todoapp/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Currency Converter App",
       //description: " This project is a Currency Converter application that supports conversions between over 160 currencies. Utilizing a free exhangeRate API, the app provides real-time exchange rates, allowing users to quickly and accurately convert amounts from one currency to another. ",
       image: "./images/projects/5.png",
@@ -50,7 +59,7 @@ const projectsData = [
       previewUrl: "https://github.com/thasneem9/ex231currency/blob/main/README.md",
     },
     {
-      id: 6,
+      id: 7,
       title: "Mini Projects using HTML CSS BOOTSRAP",
       //description: "This project is a collection of mini-projects built using HTML, CSS, and Bootstrap. Each mini-project focuses on a specific aspect of web development, such as responsive layouts, flex and CSS styles, or interactive UI components. Built as part of capstone project during Angela Yu's coding bootcamp on Udemy.",
       image: "./images/projects/6.png",
