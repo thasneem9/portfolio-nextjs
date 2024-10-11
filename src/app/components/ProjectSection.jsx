@@ -60,6 +60,16 @@ const projectsData = [
     },
     {
       id: 7,
+      title: "3D Card Tailwind react",
+      //description: " This project is a Currency Converter application that supports conversions between over 160 currencies. Utilizing a free exhangeRate API, the app provides real-time exchange rates, allowing users to quickly and accurately convert amounts from one currency to another. ",
+      image: "./images/projects/7.jpg",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/thasneem9/3d-card/",
+      previewUrl: "https://thasneem9.github.io/3d-card/",
+    },
+    
+    {
+      id: 8,
       title: "Mini Projects using HTML CSS BOOTSRAP",
       //description: "This project is a collection of mini-projects built using HTML, CSS, and Bootstrap. Each mini-project focuses on a specific aspect of web development, such as responsive layouts, flex and CSS styles, or interactive UI components. Built as part of capstone project during Angela Yu's coding bootcamp on Udemy.",
       image: "./images/projects/6.png",
