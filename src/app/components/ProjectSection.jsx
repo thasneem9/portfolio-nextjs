@@ -8,7 +8,7 @@ const projectsData = [
     id: 1,
     title: "Premium design Restaurant website",
     //description: " This project is a Currency Converter application that supports conversions between over 160 currencies. Utilizing a free exhangeRate API, the app provides real-time exchange rates, allowing users to quickly and accurately convert amounts from one currency to another. ",
-    image: "./images/projects/8.jpg",
+    image: "./images/projects/8.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/thasneem9/taj-royal-restaurant",
     previewUrl: "https://thasneem9.github.io/taj-royal-restaurant/",
